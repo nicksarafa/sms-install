@@ -1,0 +1,19 @@
+{
+  "name": "sms-install",
+  "version": "1.0.0",
+  "description": "App landing page for easy sms install link dispatching for iOS and Android apps inspired by www.hopper.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsarafa/sms-install.git"
+  },
+  "author": "nsarafa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsarafa/sms-install/issues"
+  },
+  "homepage": "https://github.com/nsarafa/sms-install#readme"
+}
