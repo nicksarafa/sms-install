@@ -1,10 +1,12 @@
-### SMS Install
+### SMS Install **In Progress**
 
-#### Build
+App landing page for easy sms install link dispatching for iOS and Android apps inspired by www.hopper.com 
 
-##### Node
-##### Gulp 
-##### Twilio
+#### Dependencies
+
+* Gulp
+* Node
+* Twilio
 
 #### Gulp Tasks
 
